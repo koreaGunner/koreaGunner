@@ -6,6 +6,7 @@
 
 <br>
 
+<h3 align="center">🌱 Github Stats 🌱</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koreaGunner&show_icons=true&theme=radical">
 </div>
