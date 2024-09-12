@@ -1,4 +1,16 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koreaGunner&layout=compact">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koreaGunner&show_icons=true&theme=radical">
+</div>
+
+
 
 <!--
 **koreaGunner/koreaGunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
