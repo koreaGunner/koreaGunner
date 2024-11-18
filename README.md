@@ -10,6 +10,7 @@
 <h3 align="center">🌱 GitHub Stats 🌱</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koreaGunner&show_icons=true&theme=radical">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=koreaGunner&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=nord"> -->
 </div>
 
 
